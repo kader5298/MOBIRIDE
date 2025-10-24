@@ -1,0 +1,5 @@
+com\mobiliz\testData\LoginData.class
+com\mobiliz\test\test\LoginTest.class
+com\mobiliz\testBase\ReservationUtils.class
+com\mobiliz\test\ReservationTest.class
+com\mobiliz\testData\ReservationData.class
