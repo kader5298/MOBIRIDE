@@ -1,4 +1,4 @@
-package com.mobiliz.test.test;
+package com.mobiliz.test;
 
 import com.mobiliz.testBase.ReservationUtils;
 import com.mobiliz.testData.LoginData;
